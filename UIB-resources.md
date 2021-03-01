@@ -1,6 +1,7 @@
 # UI-BASICS RESOURCES:
 
 1. [pre tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
+
 2. [web accessibility](https://webaccess.berkeley.edu/resources/tips/web-accessibility)
 3. [ready accessibility](https://www.codecademy.com/articles/ready-accessibility)
 4. [color value](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
