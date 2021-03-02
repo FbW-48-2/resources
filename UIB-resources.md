@@ -180,3 +180,9 @@
 133. [SASS best practice](https://www.educative.io/blog/sass-best-practices-frontend-coding-tips)
 134. [SASS example](https://medium.com/swlh/sass-in-examples-5fb9b205c3a8)
 135. [SASS @use @forward](https://www.youtube.com/watch?v=CR-a8upNjJ0)
+136. [cheap domain for your web](https://www.namecheap.com/)
+137. [simple gh-pages publishing](https://pages.github.com/)
+138. [publishing from gh-pages branch](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+
+
+
